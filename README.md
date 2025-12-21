@@ -7,7 +7,7 @@
 ## What I'm Working On
 
 - **Technical Team Lead (Contract) at TECXA** - Building official web/mobile apps for Sri Lanka Fintech Summit 2026
-- **Research Assistant at NC State University** - Optimizing high-performance C++/Python systems for DNA-based data storage
+- **Research Assistant at North Carolina State University** - Optimizing high-performance C++/Python systems for DNA-based data storage
 
 ---
 
