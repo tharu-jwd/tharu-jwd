@@ -54,11 +54,3 @@ High-performance string processing library for Python
 - **Performance:** 10x speedup over pure Python implementations
 
 ---
-
-## Let's Connect
-
-- **Email:** tharupahanjayawardana@gmail.com
-- **LinkedIn:** [Link](linkedin.com/in/tharupahan-jayawardana)
-- **Website:** [Link](tharu-jwd.dev)
-
----
