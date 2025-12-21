@@ -52,6 +52,6 @@ Automated stock analysis dashboard
 ### [StringUtils-CPP](https://github.com/tharu-jwd/pystringpp)
 High-performance string processing library for Python
 - **Tech:** C++, Python, pybind11
-- **Performance:** 10x speedup over pure Python implementations
-
+- **Features:** Fast String Processing
+  
 ---
