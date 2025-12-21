@@ -2,15 +2,14 @@
 
 **Full-Stack Developer** | **Research Assistant** | **CSE @ University of Moratuwa**
 
-Currently leading development of [Sri Lanka Fintech Summit 2026](link) platform and contributing to DNA data storage research at North Carolina State University.
+Currently leading development of Sri Lanka Fintech Summit 2026 platform and contributing to DNA data storage research at North Carolina State University.
 
 ---
 
 ## What I'm Working On
 
-- **Technical Team Lead @ TECXA** - Building official web/mobile apps for Sri Lanka Fintech Summit 2026
-- **Research Assistant @ NC State University** - Optimizing high-performance C++/Python systems for DNA-based data storage
-- **Open Source** - Developing StringUtils-CPP, a high-performance string processing library
+- **Technical Team Lead (Contract) at TECXA** - Building official web/mobile apps for Sri Lanka Fintech Summit 2026
+- **Research Assistant at NC State University** - Optimizing high-performance C++/Python systems for DNA-based data storage
 
 ---
 
