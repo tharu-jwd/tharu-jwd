@@ -53,5 +53,3 @@ Automated stock analysis dashboard
 High-performance string processing library for Python
 - **Tech:** C++, Python, pybind11
 - **Features:** Fast String Processing
-  
----
