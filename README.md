@@ -1,6 +1,6 @@
 # Hi, I'm Tharupahan Jayawardana 👋
 
-**Full-Stack Developer** | **Research Assistant** | **CSE @ University of Moratuwa**
+**Full-Stack Developer** | **Research Assistant** | **CSE Undergraduate**
 
 Currently leading development of Sri Lanka Fintech Summit 2026 platform and contributing to DNA data storage research at North Carolina State University.
 
