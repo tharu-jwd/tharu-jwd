@@ -53,12 +53,6 @@ High-performance string processing library for Python
 
 ---
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tharu-jwd&show_icons=true&theme=radical)
-
----
-
 ## Let's Connect
 
 - **Email:** tharupahanjayawardana@gmail.com
