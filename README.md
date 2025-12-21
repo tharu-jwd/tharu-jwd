@@ -15,9 +15,8 @@
 
 **Frontend:** NextJS, React, Tailwind CSS, Shadcn UI, Bootstrap  
 **Backend:** FastAPI, Node.js, PostgreSQL  
-**Languages:** Python, C++, JavaScript/TypeScript  
-**Tools:** Docker, Git, Jira, GitHub Actions  
-**Domains:** Fintech, Healthcare, Data Analysis
+**Languages:** Python, C++, TypeScript  
+**DevOps:** Docker, Git, GitHub Actions  
 
 ---
 
