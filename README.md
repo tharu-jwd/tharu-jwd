@@ -1,5 +1,4 @@
 # Hi ! I'm Tharupahan Jayawardana.
-
 **Full-Stack Developer** | **Research Assistant** | **CSE Undergraduate**
 
 ---
