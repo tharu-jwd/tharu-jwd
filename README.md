@@ -6,7 +6,7 @@ Currently leading development of [Sri Lanka Fintech Summit 2026](link) platform 
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - **Technical Team Lead @ TECXA** - Building official web/mobile apps for Sri Lanka Fintech Summit 2026
 - **Research Assistant @ NC State University** - Optimizing high-performance C++/Python systems for DNA-based data storage
@@ -14,7 +14,7 @@ Currently leading development of [Sri Lanka Fintech Summit 2026](link) platform 
 
 ---
 
-## 💻 Tech Stack
+## Technologies
 
 **Frontend:** NextJS, React, Tailwind CSS, Shadcn UI, Bootstrap  
 **Backend:** FastAPI, Node.js, PostgreSQL  
@@ -24,7 +24,7 @@ Currently leading development of [Sri Lanka Fintech Summit 2026](link) platform 
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 ### [Sri Lanka Fintech Summit 2026](link-if-public)
 Official platform for nation's premier fintech conference
@@ -54,35 +54,16 @@ High-performance string processing library for Python
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
-## 🎓 Education & Certifications
-
-- **B.Sc. Computer Science and Engineering** - University of Moratuwa (CGPA 3.63)
-- **CFA Level 1 Candidate** - CFA Institute
-- **ACCA Affiliate** - Association of Certified Chartered Accountants
-- Meta Front-End Developer | Meta Back-End Developer | Google Project Management
-
----
-
-## 🏆 Recent Achievements
-
-- 🥇 **IESL Startup Spark Winner** - 1st place with healthcare innovation
-- 🎯 **Mobitel CodeBlast Finalist** - Top 14 from 100+ teams
-- 📚 **Dean's List** - Semester 1, Faculty of Engineering
-
----
-
-## 📫 Let's Connect
+## Let's Connect
 
 - **Email:** tharupahanjayawardana@gmail.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](link)
-- **Website:** [yourwebsite.com](link)
+- **LinkedIn:** [linkedin.com/in/tharupahan-jayawardana](link)
+- **Website:** [tharu-jwd.dev](link)
 
 ---
-
-💡 *Open to collaborations on fintech, healthcare tech, and high-performance computing projects*
