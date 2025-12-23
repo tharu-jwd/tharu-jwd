@@ -12,7 +12,7 @@
 
 ## Technologies
 
-**Frontend:** NextJS, React, Tailwind CSS, Shadcn UI
+**Frontend:** NextJS, React, Tailwind CSS, Shadcn UI  
 **Backend:** FastAPI, Node.js, PostgreSQL  
 **Languages:** Python, C++, TypeScript  
 **Tools:** Docker, Git, GitHub Actions  
