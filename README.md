@@ -12,8 +12,8 @@
 
 ## Technologies
 
-**Frontend:** ReactJS, NextJS
-**Backend:** Node.js, FastAPI
+**Frontend:** ReactJS, NextJS  
+**Backend:** Node.js, FastAPI  
 **Database** MongoDB, PostgreSQL  
 **Languages:** Python, C++, TypeScript  
 **Tools:** Docker, Git, GitHub Actions  
