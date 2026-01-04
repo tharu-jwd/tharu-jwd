@@ -18,5 +18,5 @@
 **Languages:** Python, C++, TypeScript  
 **Tools:** Docker, Git, GitHub Actions  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharu-jwd&theme=github)
 
